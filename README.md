@@ -1,4 +1,4 @@
-In this project, let's build a **Feedback App** by applying the concepts we have learned till now.
+In this project, I've designed a **Feedback App**, using React components.
 
 ### Refer to the image below:
 
